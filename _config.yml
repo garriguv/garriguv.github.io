@@ -1,22 +1,17 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
 title: Vincent Garrigues
-tagline:
 url: http://garriguv.io
 paginate: 1
 baseurl: ''
 
 # Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # Pages list
 pages_list:
