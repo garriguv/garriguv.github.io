@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title: Vincent Garrigues
 url: https://garriguv.github.io/
-paginate: 1
+paginate: 10
 baseurl: ''
 markdown: kramdown
 highlighter: pygment
