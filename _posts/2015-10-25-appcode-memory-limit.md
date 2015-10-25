@@ -6,7 +6,7 @@ description: Changing AppCode's memory limit will make it faster.
 
 I love AppCode, but sometimes it can get excruciatingly slow when working on large projects. A good thing to check in those cases is the memory usage. Here's how to access it:
 
-![]({{ site.url }}/assets/images/appcode-memory.png)
+![Showing AppCode's memory consumption]({{ site.url }}/assets/images/appcode-memory.png)
 
 You'll now have a little memory indicator in the bottom right toolbar of the IDE. If you see that the memory fills up instantly when opening your project, then maybe it's time to increase it.
 
