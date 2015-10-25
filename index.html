@@ -1,70 +1,33 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Vincent Garrigues by garriguv</title>
+---
+layout: default
+title: Home
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Vincent Garrigues</h1>
-        <p></p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-        <p class="view"><a href="https://github.com/garriguv">View My GitHub Profile</a></p>
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
 
-      </header>
-      <section>
-        <h3>
-<a name="me" class="anchor" href="#me"><span class="octicon octicon-link"></span></a>Me</h3>
-
-<p>I'm Vincent, an engineer in Berlin. I work at <a href="http://soundcloud.com">SoundCloud</a>.</p>
-
-<h3>
-<a name="follow-me-on" class="anchor" href="#follow-me-on"><span class="octicon octicon-link"></span></a>Follow me on</h3>
-
-<ul>
-<li><a href="http://github.com/garriguv">GitHub</a></li>
-<li><a href="http://twitter.com/garriguv">Twitter</a></li>
-</ul><h3>
-<a name="what-i-do" class="anchor" href="#what-i-do"><span class="octicon octicon-link"></span></a>What I do</h3>
-
-<p>Mobile things.</p>
-
-<ul>
-<li>Objective-C</li>
-<li>Scala</li>
-<li>Ruby</li>
-</ul><h3>
-<a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
-
-<p>Send me an email: vincent at soundcloud com</p>
-
-<p><a href="http://lnkd.in/bmX68R">Linkedin</a></p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-44055506-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-  </body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
