@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AppCode memory limit
+title: Slow AppCode? Here's how to fix it.
+description: Changing AppCode's memory limit will make it faster.
 ---
 
 I love AppCode, but sometimes it can get excruciatingly slow when working on large projects. A good thing to check in those cases is the memory usage. Here's how to access it:
