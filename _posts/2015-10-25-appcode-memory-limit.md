@@ -12,7 +12,8 @@ You'll now have a little memory indicator in the bottom right toolbar of the IDE
 AppCode runs on the JVM, and you can change the JVM parameters. First, copy the default launch options to AppCode's preferences directory:
 
 ```
-$ cp /Applications/AppCode.app/Contents/bin/appcode.vmoptions ~/Library/Preferences/AppCode33
+$ cp /Applications/AppCode.app/Contents/bin/appcode.vmoptions \
+        ~/Library/Preferences/AppCode33
 ```
 
 Then edit the copied `appcode.vmoptions` file. You should change both the `-Xmx` (memory limit) and `-Xms` (initial memory allocation) options.
