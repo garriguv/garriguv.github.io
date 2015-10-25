@@ -1,5 +1,6 @@
 .bundle/
 vendor/
-.saas-cache/
+.sass-cache
+.sass-cache/*
 .DS_Store
 _site/
