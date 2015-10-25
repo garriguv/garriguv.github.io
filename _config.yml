@@ -8,7 +8,7 @@ url: https://garriguv.github.io/
 paginate: 10
 baseurl: ''
 markdown: kramdown
-highlighter: pygment
+highlighter: pygments
 
 kramdown:
   input: GFM
