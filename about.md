@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm Vincent, an engineer in Berlin. I work at [SoundCloud](http://soundcloud.com).
+I'm Vincent, a software engineer in Berlin. I'm a tech lead at [SoundCloud](http://soundcloud.com).
 
 ### Follow me on
 
@@ -12,7 +12,7 @@ I'm Vincent, an engineer in Berlin. I work at [SoundCloud](http://soundcloud.com
 
 ### What I do
 
-Mobile things.
+Mostly mobile things.
 
 * Objective-C
 * Scala
