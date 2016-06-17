@@ -1,6 +1,8 @@
 # Permalinks
 permalink: pretty
-relative_permalinks: true
+
+# Gems
+gems: [jekyll-gist, jekyll-paginate]
 
 # Setup
 title: Vincent Garrigues
