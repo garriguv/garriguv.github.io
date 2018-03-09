@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm Vincent, a software engineer in Berlin. I'm a tech lead at [SoundCloud](http://soundcloud.com).
+I'm Vincent, a software engineer in Berlin. I'm currently the director of Media Streaming at [SoundCloud](http://soundcloud.com).
 
 ### Follow me on
 
@@ -14,9 +14,10 @@ I'm Vincent, a software engineer in Berlin. I'm a tech lead at [SoundCloud](http
 
 Mostly mobile things.
 
-* Objective-C
-* Scala
 * Swift
+* Go
+* Scala
+* Objective-C
 * Ruby
 
 ### Contact
