@@ -12,10 +12,15 @@ I'm Vincent, a software engineer in Berlin. I'm currently the director of Media 
 
 ### What I do
 
-Mostly mobile things.
+I'm currently an engineering manager, but I love programming and designing
+large systems.
 
-* Swift
+I believe that programming languages are tools, and I enjoy learning new ones
+and applying what I have learned to solve new challenges. I have worked
+extensively with the following:
+
 * Go
+* Swift
 * Scala
 * Objective-C
 * Ruby
