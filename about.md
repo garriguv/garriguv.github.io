@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm Vincent, a software engineer in Berlin. I'm currently the director of Media Streaming at [SoundCloud](http://soundcloud.com).
+I'm Vincent, a software engineer in Berlin. I'm currently an engineering director at [SoundCloud](http://soundcloud.com).
 
 ### Follow me on
 
@@ -12,8 +12,8 @@ I'm Vincent, a software engineer in Berlin. I'm currently the director of Media 
 
 ### What I do
 
-I'm currently an engineering manager, but I love programming and designing
-large systems.
+Although I manage managers and individual contributors in my day-to-day job, I still love programming. I find my fun
+in creating tools like CLIs and internal websites to help my teams.
 
 I believe that programming languages are tools, and I enjoy learning new ones
 and applying what I have learned to solve new challenges. I have worked
