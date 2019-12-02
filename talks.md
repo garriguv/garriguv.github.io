@@ -3,7 +3,8 @@ layout: page
 title: Talks
 ---
 
-I have talked at various conferences on the subject of mobile continuous integration.
+I have talked at various conferences on the subject of mobile continuous integration and leading large
+cross-functional projects.
 
 ## 2018
 
