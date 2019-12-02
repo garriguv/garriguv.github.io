@@ -5,6 +5,11 @@ title: Talks
 
 I have talked at various conferences on the subject of mobile continuous integration.
 
+## 2018
+
+* **UIKonf** _Scaling iOS, a story of technical debt, and how to get through it_
+  * [video](https://www.youtube.com/watch?v=fmzA7cLyKv0)
+
 ## 2016
 
 * **AppDays** _SoundCloud Go, lessons learned from launching a subscription service_
