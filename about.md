@@ -13,7 +13,7 @@ I'm Vincent, a software engineer in Berlin. I'm currently an engineering directo
 ### What I do
 
 Although I manage managers and individual contributors in my day-to-day job, I still love programming. I find my fun
-in creating tools like CLIs and internal websites to help my teams.
+in creating internal tools like CLIs and websites to help my teams.
 
 I believe that programming languages are tools, and I enjoy learning new ones
 and applying what I have learned to solve new challenges. I have worked
@@ -27,4 +27,4 @@ extensively with the following:
 
 ### Contact
 
-[Email](mailto:vincent.garrigues@gmail.com) / [LinkedIn](https://de.linkedin.com/in/garriguv)
+[Email](mailto:vincent@garriguv.io) / [LinkedIn](https://de.linkedin.com/in/garriguv)
