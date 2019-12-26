@@ -8,6 +8,7 @@ gems: [jekyll-gist, jekyll-paginate]
 title: Vincent Garrigues
 url: https://garriguv.github.io/
 paginate: 10
+paginate_path: "/blog/:num/"
 baseurl: ''
 markdown: kramdown
 highlighter: rouge
@@ -22,7 +23,7 @@ sass:
 
 # Pages list
 pages_list:
-  About: '/about'
+  Blog: '/blog'
   Talks: '/talks'
   Feed: '/atom.xml'
 
@@ -30,4 +31,4 @@ pages_list:
 author:
   name: Vincent Garrigues
   url: https://garriguv.io
-  email: vincent.garrigues@gmail.com
+  email: vincent@garriguv.io
