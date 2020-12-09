@@ -3,7 +3,7 @@ layout: page
 title: Vincent
 ---
 
-I'm Vincent, a software engineer in Berlin. I'm currently a head of engineering at [Zalando](https://zalando.de). Prior to that, I've worked as an engineering director at [SoundCloud](http://soundcloud.com).
+I'm Vincent, a software engineer in Berlin. I'm currently a head of engineering at [Zalando](https://zalando.de). Prior to that, I've worked as an engineering director at [SoundCloud](https://soundcloud.com).
 
 ### Follow me on
 
