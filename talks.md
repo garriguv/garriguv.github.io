@@ -6,6 +6,11 @@ title: Talks
 I have talked at various conferences on the subject of mobile continuous integration and leading large
 cross-functional projects.
 
+## 2019
+
+* **App Builders** _From Engineer to Director of Engineering, becoming a technical leader_
+  * [video](https://www.youtube.com/watch?v=KWROQdIRqu4)
+
 ## 2018
 
 * **UIKonf** _Scaling iOS, a story of technical debt, and how to get through it_
