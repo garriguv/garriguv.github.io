@@ -27,4 +27,4 @@ extensively with the following:
 
 ### Contact
 
-[Email](mailto:vincent@garriguv.io) / [LinkedIn](https://de.linkedin.com/in/garriguv)
+[Email](mailto:hello@garriguv.io) / [LinkedIn](https://de.linkedin.com/in/garriguv)
