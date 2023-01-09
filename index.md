@@ -8,6 +8,7 @@ I'm Vincent, a software engineer in Berlin. I'm currently a head of engineering 
 ### Follow me on
 
 * [GitHub](http://github.com/garriguv)
+* <a rel="me" href="https://masto.garriguv.io/@garriguv">Mastodon</a>
 * [Twitter](http://twitter.com/garriguv)
 
 ### What I do
