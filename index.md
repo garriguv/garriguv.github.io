@@ -3,25 +3,22 @@ layout: page
 title: Vincent
 ---
 
-I'm Vincent, a software engineer in Berlin. I'm currently a head of engineering at [Zalando](https://zalando.de). Prior to that, I've worked as an engineering director at [SoundCloud](https://soundcloud.com).
+I'm Vincent, a software engineer in Berlin. I'm currently principal sowftware engineer at [Dance](https://dance.co). Prior to that, I worked as head of engineering at [Zalando](https://zalando.de) and engineering director at [SoundCloud](https://soundcloud.com).
 
 ### Follow me on
 
 * [GitHub](http://github.com/garriguv)
 * <a rel="me" href="https://masto.garriguv.io/@garriguv">Mastodon</a>
-* [Twitter](http://twitter.com/garriguv)
 
 ### What I do
 
-Although I manage managers and individual contributors in my day-to-day job, I still love programming. I find my fun
-in creating internal tools like CLIs and websites to help my teams.
+At Dance, I do a bit of everything: backend systems, mobile apps, macOS apps, firmware prototyping, data processing, etc. Making sure that the team is building the right things for our business.
 
-I believe that programming languages are tools, and I enjoy learning new ones
-and applying what I have learned to solve new challenges. I have worked
-extensively with the following:
+I believe that programming languages are tools, and I enjoy learning new ones and applying what I have learned to solve new challenges. I have worked extensively with the following:
 
-* Go
+* TypeScript
 * Swift
+* Go
 * Scala
 * Objective-C
 * Ruby
