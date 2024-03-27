@@ -7,8 +7,8 @@ I'm Vincent, a software engineer in Berlin. I'm currently principal sowftware en
 
 ### Follow me on
 
-* [GitHub](http://github.com/garriguv)
-* <a rel="me" href="https://masto.garriguv.io/@garriguv">Mastodon</a>
+- [GitHub](http://github.com/garriguv)
+- <a rel="me" href="https://hachyderm.io/@garriguv">Mastodon</a>
 
 ### What I do
 
@@ -16,12 +16,12 @@ At Dance, I do a bit of everything: backend systems, mobile apps, macOS apps, fi
 
 I believe that programming languages are tools, and I enjoy learning new ones and applying what I have learned to solve new challenges. I have worked extensively with the following:
 
-* TypeScript
-* Swift
-* Go
-* Scala
-* Objective-C
-* Ruby
+- TypeScript
+- Swift
+- Go
+- Scala
+- Objective-C
+- Ruby
 
 ### Contact
 
